@@ -15,6 +15,7 @@ export VAGRANT_VAGRANTFILE=Vagrantfile-centos
 export VAGRANT_VAGRANTFILE=Vagrantfile-macosx
 export VAGRANT_VAGRANTFILE=Vagrantfile-ubuntu
 export VAGRANT_VAGRANTFILE=Vagrantfile-windows
+export VAGRANT_VAGRANTFILE=Vagrantfile-freebsd
 
 vagrant ssh
 vagrant upload ./temp-build/systemkit-platform-os.darwin.amd64
