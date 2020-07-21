@@ -1,4 +1,4 @@
-# ![](https://fonts.gstatic.com/s/i/materialicons/bookmarks/v4/24px.svg) Dev Dox
+# ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flare/v4/24px.svg) Dev Dox
 #### Swiss Army Knife of engineering dox/shortcuts for daily life
 
 <div>
